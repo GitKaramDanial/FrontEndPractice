@@ -1,2 +1,2 @@
-# FullStackPractice
-My personal stash of full stack practice
+# FrontEndPractice
+My personal stash of front end practice
